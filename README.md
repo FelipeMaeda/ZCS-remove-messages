@@ -20,5 +20,5 @@ Run this script passing the account, folder, date and the number of messages to 
 ### Example:
 
 ```sh
-/usr/bin/./script_remove_messages.sh mmartins@trt24.jus.br Inbox 02/07/2021 100
+/usr/bin/./script_remove_messages.sh account@domain.com Inbox 02/25/2021 100
 ```
